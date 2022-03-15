@@ -14,3 +14,5 @@ consist of the screenshot and video i.e. gif file for the final app created**
 
 ### Working Functionality of App
 ![Working Functionality](ScreenshotAndRecord/Record.gif)
+
+**The above video shows the working process of the application**
