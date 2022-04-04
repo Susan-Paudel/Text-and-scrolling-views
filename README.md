@@ -12,4 +12,6 @@ readme file consist of the screenshot and video i.e. gif file for the final app 
 
 ![recording](ScreenshotAndRecord/Record.gif)
 
-**The above record shows the overall functionality of the app**
+**The above record shows the overall functionality of the app .The UI consist of three textview and one scroll view.
+One textView as header and two textView is inside scrollView and the scrollview consist of one child
+tag which is linear layout those two textview are inside it.**
