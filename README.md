@@ -11,4 +11,6 @@ consist of the screenshot and video i.e. gif file for the final app created**
 ### Working Functionality of App
 ![Working Functionality](ScreenshotAndRecord/Record.gif)
 
-**The above video shows the working process of the application**
+**The above video shows the working process of the application.The UI consist of three textview and
+one scroll view. One textView as header and two textView is inside scrollView and the scrollview
+consist of one child tag which is linear layout those two textview and one button in it.**
